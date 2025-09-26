@@ -1,0 +1,45 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+caption {
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+th, td {
+    padding: 10px 15px;
+}
+
+.WebTech {
+    text-align: center;
+    background-color:red;
+    color: white;
+}
+
+.IT1 {
+    text-align: center;
+    background-color:purple;
+    color: white;
+}
+
+.IT2 {
+    text-align: center;
+    background-color:pink;
+}
+
+.DB {
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+

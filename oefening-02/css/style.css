@@ -1,0 +1,21 @@
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+main {
+    margin-left: 50px;
+}
+
+li {
+    list-style-type: decimal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+li:nth-child(odd) {
+    color: rgb(0, 179, 255);
+}
+
+li:nth-child(even) {
+    background-color: rgba(41, 41, 41, 0.096)
+}
