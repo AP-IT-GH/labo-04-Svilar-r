@@ -23,3 +23,8 @@ th, td {
 #column1, #column2, #column3, #column4 {
     border: 1px solid black;
 }
+
+#column4 {
+    width: 10px;
+}
+
